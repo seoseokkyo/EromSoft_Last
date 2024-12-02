@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+EromSoft/Content/CombatSyetem/CourseFile/SoundFX/BGM/Elden_Ring_OST-Malenia_BladeofMiquella[Phase2Extended].wav filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/CombatSyetem/CourseFile/SoundFX/BGM/Elden_Ring_OST_-_Malenia__Blade_of_Miquella__Phase_2_Extended_.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/CombatSyetem/CourseFile/SoundFX/BGM/Elden_Ring_｜_Ancestral_Follower_Shaman_Song__Sound_Effect_.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/CombatSyetem/CourseFile/SoundFX/BGM/Voicy_Elden_Ring_-_The_Final_Boss__Music__.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/FMS_Malenia1.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/FMS_Malenia2.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/MP_Malenia1_Video.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia2.mp4 filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia2.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia2.wav filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/MP_Malenia1.uasset filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia1.mp4 filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia1.wav filter=lfs diff=lfs merge=lfs -text
+EromSoft/Content/Movies/Malenia1_Sound.uasset filter=lfs diff=lfs merge=lfs -text
