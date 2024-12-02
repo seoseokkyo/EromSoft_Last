@@ -72,9 +72,3 @@
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
-
-#Heavy BGM
-/EromSoft/Content/CombatSyetem/CourseFile/SoundFX/BGM/*
-
-#Movies
-/EromSoft/Content/Movies/*
