@@ -40,21 +40,21 @@
 
 ## 2. 진행한 작업
 
-주로 시스템 기능위주로 작업 진행
+- 주로 시스템 기능위주로 작업 진행
 
-에너미 캐릭터를 위해 준비된 애니메이션에 맞게 리깅
+- 에너미 캐릭터를 위해 준비된 애니메이션에 맞게 리깅
 
-블루프린트로 작성한 프로젝트 C++로 번역 시도
+- 블루프린트로 작성한 프로젝트 C++로 번역 시도
 
-기능과 UI 연동 작업
+- 기능과 UI 연동 작업
 
-소소한 블렌더 작업
+- 소소한 블렌더 작업
 
-프로젝트 깃 관리 시도
+- 프로젝트 깃 관리 시도
 
-디버깅 작업
+- 디버깅 작업
 
-학원 내 타 프로젝트 팀 디버그 지원
+- 학원 내 타 프로젝트 팀 디버그 지원
 
 
 ### 2-1. Weapon 상위클래스
@@ -132,10 +132,7 @@
 ### 2-6. C++ 번역 및 리펙토링(실패)
 <table>
   <tr>
-    <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/WeaponInheritance.jpg" alt="WeaponInheritance" style="width: 100%;">
-    </td>
-    <td style="width: 70%; vertical-align: top; text-align: left;">
+    <td style="width: 100%; vertical-align: top; text-align: left;">
       <ul>
         <li>블루프린트로 작업중이던 프로젝트 중 세팅관련을 제외한 나머지를 C++로 번역시도</li>
 		<li>70%가량 작업완료 및 테스트가 되었으나 마지막 시연 준비기간 동안 마무리를 하지 못해 이후 프로젝트에서 사용</li>
@@ -148,10 +145,7 @@
 ### 2-7. Git관리(실패)
 <table>
   <tr>
-    <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/Git.jpg" alt="Git" style="width: 100%;">
-    </td>
-    <td style="width: 70%; vertical-align: top; text-align: left;">
+    <td style="width: 100%; vertical-align: top; text-align: left;">
       <ul>
         <li>작업중 쏟아져 들어온 에셋들과 자유분방한 파일관리로 인해 프로젝트의 Git관리가 어려움이 생겨 Git을 드랍하게 됨...</li>
 		<li>게임 개발에서 디렉토리 관리의 중요성을 크게 느낀 프로젝트</li>
