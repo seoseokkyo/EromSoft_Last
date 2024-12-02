@@ -1,8 +1,8 @@
-# 프로젝트 이름
+# Second Project EromSoft
 
 <p align="center">
   <br>
-  <img src="./images/common/Thumbnail.jpg">
+  <img src="./images/common/BossRoom.jpg">
   <br>
 </p>
 
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="./images/common/EscapeSimulatorImage.jpg" alt="Escape Simulator Thumbnail" style="width: 100%;">
+      <img src="./images/common/EldenRing.jpg" alt="EldenRing Thumbnail" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <h3>프로젝트 개요/동기</h3>
