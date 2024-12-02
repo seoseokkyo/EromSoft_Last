@@ -109,9 +109,7 @@
   <tr>
     <td style="width: 30%; vertical-align: top;">
       <img src="./images/common/Groggy_DebugUI_1.gif" alt="Groggy_DebugUI_1" style="width: 100%;">
-    </td>
-	<td style="width: 30%; vertical-align: bottom;">
-      <img src="./images/common/Groggy_DebugUI_2.gif" alt="Groggy_DebugUI_2" style="width: 100%;">
+	  <img src="./images/common/Groggy_DebugUI_2.gif" alt="Groggy_DebugUI_2" style="width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top; text-align: left;">
       <ul>
