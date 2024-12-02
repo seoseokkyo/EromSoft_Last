@@ -30,6 +30,8 @@
   </tr>
 </table>
 
+##
+
 ## 기술 스택
 
 |	GitHub	|UnrealEngine|	Blender		|
@@ -37,6 +39,8 @@
 | ![github]	| 	![ue]	 |		![bd]	|
 
 <br>
+
+##
 
 ## 2. 진행한 작업
 
@@ -155,6 +159,8 @@
 </table>
 
 <br>
+
+##
 
 ## 3. 느낀점
 
